@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Mina:400,700");
+/*FONTS*/
+/*COLORS*/
+* {
+  font-family: "Mina", sans-serif;
+  text-align: center;
+  margin-top: 0; }
+
+header {
+  color: #1e159b;
+  background: url(https://images.pexels.com/photos/196652/pexels-photo-196652.jpeg?auto=compress&cs=tinysrgb&h=350) 0/cover no-repeat;
+  height: 400px;
+  max-width: 1200px;
+  margin: 0 auto;
+  color: #9b152f; }
+
+h1 {
+  text-transform: uppercase;
+  font-size: 60px;
+  background: rgba(160, 156, 157, 0.55);
+  margin-bottom: 0; }
+
+h2 {
+  font-size: 50px; }
+
+.container {
+  max-width: 800px;
+  margin: 0 auto; }
+
+.verse {
+  color: #1e159b;
+  padding: 10px; }
+
+.chorus {
+  color: #9b152f; }
+
+/*# sourceMappingURL=style.css.map */
